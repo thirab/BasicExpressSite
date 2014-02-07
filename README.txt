@@ -1,0 +1,1 @@
+Boden Law is designed for Boden Law Firm @ Bodenlawfirm.com as a side project. It uses express, node.js, jade, stylus, and twitter bootstrap. I forked BasicExpressSite as the original file for ease of installation.This is a public project, please feel free to play with and use the web app for educational purposes.
